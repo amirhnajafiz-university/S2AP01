@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.myPack","l":"Board"},{"p":"com.myPack","l":"Disk"},{"p":"com.myPack","l":"HintDisk"},{"p":"com.myPack","l":"Othello"},{"p":"com.myPack","l":"Player"},{"p":"com.myPack","l":"PrintGame"},{"p":"com.myPack","l":"RunningTest"}]
